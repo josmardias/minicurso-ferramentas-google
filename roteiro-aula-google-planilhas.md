@@ -88,5 +88,7 @@ Ao final da aula, você será capaz de:
 15. Nova página (nova aba).
     - 15.1 Renomear página.
 16. Fórmulas MAX/MIN/SUM.
+17. Gráficos.
+18. Forms.
 
 
