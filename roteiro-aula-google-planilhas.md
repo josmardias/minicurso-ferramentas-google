@@ -10,18 +10,20 @@
 | Item | Descrição |
 |------|-----------|
 | **Tema** | Introdução prática ao Google Planilhas |
-| **Público** | Pessoas com níveis muito diferentes de conhecimento prático (de quem nunca usou computador a quem já mexe no Excel) |
-| **Duração** | 2h (com 1 intervalo de 10 min) |
+| **Público** | Pessoas com níveis variados de experiência com tecnologia |
+| **Duração** | 2h |
 | **Formato** | Presencial em laboratório OU online com compartilhamento de tela |
 | **Pré-requisito mínimo** | Ter (ou criar na hora) uma conta Google/Gmail |
 
 ### Objetivos de aprendizagem
 Ao final da aula, você será capaz de:
-1. Acessar o Google Planilhas e criar uma nova planilha.
-2. Digitar, editar e apagar dados em células.
-3. Formatar dados básicos (negrito, cor, bordas, mesclar células).
-4. Fazer contas simples (somar, média, multiplicar).
-5. Salvar (entender o salvamento automático) e compartilhar uma planilha.
+1. Criar e navegar em uma planilha do Google Planilhas.
+2. Entender os conceitos básicos: célula, coluna, linha, página e planilha.
+3. Inserir e editar dados.
+4. Formatar células: tamanho, alinhamento, cor, fonte, datas e números.
+5. Organizar a planilha: mesclar células, congelar linha de título, adicionar e remover linhas e colunas.
+6. Usar fórmulas básicas: MAX, MIN e SOMA.
+7. Entender o salvamento automático e organizar o trabalho em páginas.
 
 ---
 
