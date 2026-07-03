@@ -85,10 +85,3 @@ Ao final da aula, você será capaz de:
     - 12.3 Desfazer / Refazer.
 13. Como salva?
 14. Aumentar fonte.
-15. Nova página (nova aba).
-    - 15.1 Renomear página.
-16. Fórmulas MAX/MIN/SUM.
-17. Gráficos.
-18. Forms.
-
-
